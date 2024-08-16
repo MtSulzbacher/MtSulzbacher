@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-💼 Atualmente trabalho como Analista de sistemas.<br>🛡️ Estou cursando Tecnologia em Gestão da Segurança e Defesa Cibernética.<br>🐍 Focado em aperfeiçoar minhas habilidades como programador Python.<br>
+💼 Atualmente trabalho como Analista de sistemas.<br>🛡️ Estou cursando Tecnologia em Banco de Dados.<br>🐍 Focado em aperfeiçoar minhas habilidades como programador Python.<br>
 
 
 ## 🌐 Redes sociais:
